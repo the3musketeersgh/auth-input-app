@@ -23,7 +23,7 @@ function AuthInputs() {
 
   return (
     <div id="auth-inputs">
-      <div>
+      <div className="controls">
         <p>
           <label>Email</label>
           <input
